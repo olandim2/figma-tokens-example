@@ -1,13 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Thu, 06 Oct 2022 03:51:42 GMT
+ * Generated on Thu, 06 Oct 2022 14:04:54 GMT
  */
 
 :root {
   --token-set-order-0: global;
+  --token-set-order-1: c12;
+  --gradiente: 32;
   --colors-red-300: #FCA5A5;
   --colors-red-700: #d37a7a;
-  --colors-yellow-500: #98229c;
+  --colors-yellow-500: #31e311;
   --colors-black: #000000;
   --colors-white: #ffffff;
   --spacing-sm: 4;
