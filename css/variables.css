@@ -1,12 +1,16 @@
 /**
  * Do not edit directly
+<<<<<<< HEAD
  * Generated on Thu, 06 Oct 2022 03:32:06 GMT
+=======
+ * Generated on Thu, 06 Oct 2022 03:23:14 GMT
+>>>>>>> 8d2caa80d3dedf0c9087dd90e9c9ef78eba15180
  */
 
 :root {
   --token-set-order-0: global;
   --colors-red-300: #FCA5A5;
-  --colors-red-700: #B91C1C;
+  --colors-red-700: #d37a7a;
   --colors-yellow-500: #e3f043;
   --colors-black: #000000;
   --colors-white: #ffffff;
