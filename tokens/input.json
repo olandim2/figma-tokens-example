@@ -1,16 +1,24 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
   "colors": {
     "red": {
       "300": {
         "value": "#FCA5A5",
         "type": "color"
       },
-      "500": {
-        "value": "#EF4444",
-        "type": "color"
-      },
       "700": {
         "value": "#B91C1C",
+        "type": "color"
+      }
+    },
+    "yellow": {
+      "500": {
+        "value": "#e3f043",
         "type": "color"
       }
     },
