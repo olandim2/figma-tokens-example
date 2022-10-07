@@ -65,7 +65,7 @@
       "type": "spacing"
     }
   },
-  "Font": {
+  "font": {
     "primary": {
       "value": "roboto",
       "type": "fontFamilies"
