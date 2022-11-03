@@ -1,17 +1,21 @@
 /**
  * Do not edit directly
 <<<<<<< HEAD
+<<<<<<< HEAD
  * Generated on Fri, 07 Oct 2022 16:20:24 GMT
 =======
  * Generated on Fri, 07 Oct 2022 16:29:03 GMT
 >>>>>>> 3518664b20c8ce8f842716d8644a65bca23ecb61
+=======
+ * Generated on Mon, 10 Oct 2022 14:01:55 GMT
+>>>>>>> a824b4843bdc5264925ad4cd750978bb30391086
  */
 
 :root {
   --token-set-order-0: global;
   --token-set-order-1: c12;
   --gradiente: 32;
-  --colors-brand-red-300: #b00a0a;
+  --colors-brand-red-300: #980A4B;
   --colors-brand-blue-700: #1a0765;
   --colors-primary-500: #e3f006;
   --colors-black: #000000;

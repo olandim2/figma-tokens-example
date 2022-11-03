@@ -17,7 +17,7 @@
     "brand": {
       "red": {
         "300": {
-          "value": "#b00a0a",
+          "value": "#980A4B",
           "type": "color"
         }
       },
@@ -65,7 +65,7 @@
       "type": "spacing"
     }
   },
-  "Font": {
+  "font": {
     "primary": {
       "value": "roboto",
       "type": "fontFamilies"
